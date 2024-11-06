@@ -1,0 +1,3 @@
+﻿  lab 7.3 r.cpp
+C:\Users\HP\source\repos\lab 7.3 r\lab 7.3 r\lab 7.3 r.cpp(45,39): warning C4244: -=: преобразование "double" в "int", возможна потеря данных
+  lab 7.3 r.vcxproj -> C:\Users\HP\source\repos\lab 7.3 r\x64\Debug\lab 7.3 r.exe
